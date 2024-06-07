@@ -1,0 +1,28 @@
+Term 'PValue
+mammary gland alveolus development 2.71E-05
+intracellular steroid hormone receptor signaling pathway 4.76E-04
+tertiary branching involved in mammary gland duct morphogenesis 0.0099
+phospholipase C-activating G-protein coupled receptor signaling pathway 0.0219
+oncostatin-M-mediated signaling pathway 0.0229
+negative regulation of cytoplasmic translation 0.0262
+prostate gland growth 0.0262
+leukemia inhibitory factor signaling pathway 0.0294
+positive regulation of acute inflammatory response 0.0390
+vesicle-mediated transport 0.0442
+mammary gland epithelial cell differentiation 0.0453
+keratinization 1.89E-33
+peptide cross-linking 9.12E-10
+keratinocyte differentiation 1.15E-07
+epidermis development 5.76E-07
+establishment of skin barrier 3.78E-06
+intermediate filament organization 4.35E-06
+negative regulation of peptidase activity 0.0024
+cellular response to calcium ion 0.0041
+arachidonic acid metabolic process 0.0062
+positive regulation of epidermis development 0.0177
+lipid catabolic process 0.0478
+epithelial cell differentiation 0.0496
+lipid metabolic process 0.0012
+cellular glucuronidation 0.0195
+transmembrane transport 0.0251
+estrogen metabolic process 0.0300
