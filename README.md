@@ -1,3 +1,5 @@
+Note: Supplementary file 3 is heavy. It needs to be downloaded to visualize it unlike other files
+
 This is the repository of the Supplementary files for the manuscript . Four files are attached herwith. 
 The complete gene list for the four groups obtained through Convex Analysis of Mixtures is presented in supplementary file 1.
 The set of differentially expressed genes obtained through DeSeq2 along with the statistical parameters is presented in supplementary file 2.
